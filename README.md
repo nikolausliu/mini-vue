@@ -8,4 +8,4 @@
 
 # 文章目录
 
-- 1. [手撕mini-vue源码——环境搭建](/docs/env-setup/README.md)
+1. [手撕mini-vue源码——环境搭建](/docs/env-setup/README.md)

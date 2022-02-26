@@ -89,5 +89,7 @@ export function sum(a, b) {
 
 ![yarn test](./2.png)
 
+测试用例跑通，本节任务完成。
+
 
 
