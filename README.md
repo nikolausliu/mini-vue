@@ -9,3 +9,4 @@
 # 文章目录
 
 1. [手撕mini-vue源码——环境搭建](/docs/env-setup/README.md)
+2. [手撕mini-vue源码——实现effect & reactive & track & trigger](/docs/effect-reactive-track-trigger/README.md)
